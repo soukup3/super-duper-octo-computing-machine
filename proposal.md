@@ -29,17 +29,20 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-When people go to fast food restaurants, they often don't know the best items on the menu and what to pair them with for their budget. Our plan is to implement a Food-o-Finder that helps customers decide the best meal combinations given their budget at a specific restaurant.
+When people go to fast food restaurants, they often don't know the best items on the menu and what to pair them with. Our plan is to implement a Food-o-Finder that helps customers decide the best meal combinations given an entree at a specific restaurant.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
+
 Food-o-Finder
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+
 The program will output all possible food combinations at a user-specified restaurant given an entree in the order of popularity.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 The names of popular fast food chains, their menus.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
