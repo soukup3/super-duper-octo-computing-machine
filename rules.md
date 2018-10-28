@@ -9,21 +9,19 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-Create a Google Doc and people claim what they want to do. If people aren't able to
-complete their task, communicate and reassign. Also we will use GitHub's assign feature.
+Create a Google Doc and people claim what they want to do. If people aren't able to complete their task, communicate and reassign. Also we will use GitHub's assign feature.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Set completion deadlines for each team member and help them if they're having difficulties.
+Set completion deadlines for each team member and help them if they're having difficulties. We will meet up well ahead of the deadline for the project, so we don't run into a lot of issues at the last minute.
 
 
 ## How will we communicate difficulties with a task assigned to us
-Tell each other what you are having problems with - use open communication.
+Tell each other what you are having problems with - use open communication. If someone feels as if they are able to provide assistance to the person unable to complete their task, they should step up and contribute. The person who was having difficulties will make up for it by contributing more in future assignments.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-Checkup on each other every now and then, keep messaging everyone in the groupchat,
-and meet up before project is due.
+Checkup on each other every now and then, keep messaging everyone in the groupchat, and meet up before project is due.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 Give constructive feedback and not take things personally. Have fun :)
