@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+When people go to fast food restaurants, they often don't know the best items on the menu and what to pair them with for their budget. Our plan is to implement a Food-o-Finder that helps customers decide the best meal combinations given their budget at a specific restaurant.
 
 ## Questions to answer for Exercise #2
 
