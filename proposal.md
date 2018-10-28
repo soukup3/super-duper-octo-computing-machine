@@ -39,11 +39,12 @@ Food-o-Finder
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-The program will output all possible food combinations at a user-specified restaurant given an entree in the order of popularity.
+The program will output all possible food combinations at a user-specified restaurant given an entree in the order of popularity. 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-The names of popular fast food chains, their menus.
+The names of popular fast food chains, their menus. 
+Example input: "McDonalds", "Big Mac"
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
