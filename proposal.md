@@ -58,6 +58,7 @@ Example input: "McDonalds", "Big Mac"
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+A webpage with buttons to choose from, the first button is the choice of the restaurant, the second one is for the choices of the entrees. Then all the possible combinations contain this entree will show up in an order of popularity.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
