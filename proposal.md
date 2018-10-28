@@ -1,4 +1,4 @@
-# X-Team 11 Project Proposal
+# X-Team 11 Food-o-Finder Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -34,19 +34,15 @@ When people go to fast food restaurants, they often don't know the best items on
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
-
+Food-o-Finder
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+The program will output all possible food combinations at a user-specified restaurant given an entree in the order of popularity.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
 The names of popular fast food chains, their menus.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
