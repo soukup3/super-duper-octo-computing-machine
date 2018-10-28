@@ -41,6 +41,12 @@ Food-o-Finder
 
 The program will output all possible food combinations at a user-specified restaurant given an entree in the order of popularity. 
 
+Restaurant: McDonalds
+Entree: Big Mac
+1- Big Mac + Drink + Sundae
+2- Big Mac + Drink + Fries
+3- Big Mac + Drink + Apple Pie
+
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 The names of popular fast food chains, their menus. 
