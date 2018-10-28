@@ -66,7 +66,7 @@ Name each interface or class and briefly describe its function or purpose.
 
 Main.java contains three inner classes that creates a table of restaurants and entrees. It takes in user input.
 
-Items.java will hold the graph implementation for the menu items, Restaurant.java holds the hash table implementation with an array for restaurant names and Entree.java holds a hash table implementation with an array list for all possible entrees.
+Items will hold the graph implementation for the menu items, Restaurant holds the hash table implementation with an array for restaurant names and Entree holds a hash table implementation with an array list for all possible entrees.
 
 For testing purposes:
 
