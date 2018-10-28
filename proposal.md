@@ -37,11 +37,9 @@ When people go to fast food restaurants, they often don't know the best items on
 
 Food-o-Finder
 
-
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-The program will output all possible food combinations at a specific budget for a determined cost. This output will 1
-
+The program will output all possible food combinations at a user-specified restaurant given an entree in the order of popularity.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
