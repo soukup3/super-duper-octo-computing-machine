@@ -62,9 +62,9 @@ A webpage with buttons to choose from, the first button is the choice of the res
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
-
 Name each interface or class and briefly describe its function or purpose.
+
+The menu items are implemented using Graphs (our main class). We will create an inner class for a hash table implemented with an array that holds the restaurant names. Another inner class for a hash table implemented with an array list will hold the all possible entrees.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
