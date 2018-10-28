@@ -64,8 +64,9 @@ A webpage with buttons to choose from, the first button is the choice of the res
 
 Name each interface or class and briefly describe its function or purpose.
 
-The menu items are implemented using Graphs (our main class). We will create an inner class for a hash table implemented with an array that holds the restaurant names. Another inner class for a hash table implemented with an array list will hold the all possible entrees.
+Main.java contains three inner classes that creates a table of restaurants and entrees. It takes in user input.
 
+Items.java will hold the graph implementation for the menu items, Restaurant.java holds the hash table implementation with an array for restaurant names and Entree.java holds a hash table implementation with an array list for all possible entrees.
 
 ## Edit and Submit this file and any figures referenced by this document.
 
